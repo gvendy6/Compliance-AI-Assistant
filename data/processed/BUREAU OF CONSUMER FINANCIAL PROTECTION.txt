@@ -1,0 +1,427 @@
+This document is scheduled to be published in the
+Federal Register on 05/18/2022 and available online at
+federalregister.gov/d/2022-10453, and ongBovIiLnfLoI.gNoGv CODE: 4810-AM-P
+BUREAU OF CONSUMER FINANCIAL PROTECTION
+12 CFR Part 1002
+Equal Credit Opportunity (Regulation B); Revocations or Unfavorable Changes to the
+Terms of Existing Credit Arrangements
+AGENCY: Bureau of Consumer Financial Protection.
+ACTION: Advisory opinion.
+SUMMARY: The Consumer Financial Protection Bureau (CFPB) is issuing this advisory
+opinion to affirm that the Equal Credit Opportunity Act and Regulation B protect not only those
+actively seeking credit but also those who sought and have received credit.
+DATES: This advisory opinion is applicable on [INSERT DATE OF PUBLICATION IN THE
+FEDERAL REGISTER].
+FOR FURTHER INFORMATION CONTACT: Christopher Davis, Attorney-Advisor;
+Office of Fair Lending and Equal Opportunity, at CFPB_FairLending@cfpb.gov or 202-435-
+7000. If you require this document in an alternative electronic format, please contact
+CFPB_Accessibility@cfpb.gov.
+SUPPLEMENTARY INFORMATION: The CFPB is issuing this advisory opinion through
+the procedures for its Advisory Opinions Policy.1 Refer to those procedures for more
+information.
+1 85 FR 77987 (Dec. 3, 2020).
+I. Advisory Opinion
+A. Background
+The Bureau is issuing this advisory opinion to affirm that the Equal Credit Opportunity
+Act (ECOA)2 and Regulation B3 protect both those actively seeking credit and those who sought
+and have received credit. ECOA is a landmark civil rights law that protects individuals and
+businesses against discrimination in accessing and using credit—“a virtual necessity of life” for
+most people.4 Congress enacted ECOA in 1974, initially to address “widespread discrimination . .
+. in the granting of credit to women.”5 Accordingly, ECOA made it unlawful for “any creditor to
+discriminate against any applicant on the basis of sex or marital status with respect to any aspect
+of a credit transaction.”6 From the beginning, this prohibition has protected both those actively
+seeking credit and those who sought and have received credit.
+Then as now, ECOA defined “applicant” to mean “any person who applies to a creditor
+directly for an extension, renewal, or continuation of credit, or applies to a creditor indirectly by
+use of an existing credit plan for an amount exceeding a previously established credit limit.”7
+The drafters of these provisions emphasized that ECOA’s prohibition on discrimination “applies
+to all credit transactions including the approval, denial, renewal, continuation, or revocation of
+any open-end consumer credit account.”8 Among other examples of the sort of discrimination
+against “applicants” that ECOA would bar, its drafters cited a scenario in which a lender required
+a “newly married woman whose creditworthiness has otherwise remained the same” to reapply
+for her existing credit arrangement as a new applicant.9 The Act also created a private right of
+action under which aggrieved “applicant[s]” can hold liable a creditor that fails to comply with
+2 15 U.S.C. 1691 et seq.
+3 12 CFR part 1002.
+4 S. Rep. 94-589, 94th Cong., 2nd Sess., at 4, reprinted in 1976 U.S.C.C.A.N. 403, 406.
+5 S. Rep. 93-278, 93rd Cong., 1st Sess., at 16 (1973).
+6 Pub. L. 93-495, sec. 503, 88 Stat. 1521, 1521 (1974).
+7 Pub. L. 93-495, sec. 503, 88 Stat. at 1522 (codified at 15 U.S.C. 1691a(b)).
+8 S. Rep. 93-278, at 27 (emphasis added).
+9 S. Rep. 93-278, at 17.
+“any requirement imposed under [ECOA].”10 And it provided that this private right of action
+extends to violations of any requirement imposed under ECOA’s implementing regulations.11
+Congress originally tasked the Board of Governors of the Federal Reserve System
+(Board) with prescribing those regulations.12 The Board issued those rules, known as Regulation
+B, the year after ECOA was enacted and several days before the Act took effect.13 From the
+beginning, Regulation B made clear that the new law’s protections against credit discrimination
+cover both those currently applying to receive credit and those who have already received it. It
+did so by defining “applicant” to expressly include not only “any person who applies to a
+creditor directly for an extension, renewal or continuation of credit” but also, “[w]ith respect to
+any creditor[,] . . . any person to whom credit is or has been extended by that creditor.”14 In
+explaining this provision, the Board noted that ECOA’s express terms and its legislative history
+“demonstrate that Congress intended to reach discrimination . . . ‘in any aspect of a credit
+transaction.’”15
+Two years after enacting ECOA, Congress significantly broadened the Act to prohibit
+discrimination on bases in addition to sex and marital status.16 These bases now generally
+include “race, color, religion, national origin, sex or marital status, or age” as well as the receipt
+of public-assistance income.17 In what the Senate drafters called “one of [the amendments’]
+most important provisions,”18 the amendments also provided that “[e]ach applicant against
+whom adverse action is taken shall be entitled to a statement of reasons for such action from the
+10 15 U.S.C. 1691e(a).
+11 15 U.S.C. 1691a(g) (“Any reference to any requirement imposed under this subchapter . . . includes reference to the
+regulations of the Bureau under this subchapter . . . .”).
+12 Pub. L. 93-495, sec. 503, 88 Stat. at 1522.
+13 See 40 FR 49298 (Oct. 22, 1975) (promulgating 12 CFR part 202); 40 FR 42030 (Sept. 10, 1975); 40 FR 18183 (Apr.
+25, 1975).
+14 12 CFR 202.3(c) (1976); see also 40 FR 49306.
+15 40 FR 49298 (quoting 15 U.S.C. 1691(a)).
+16 See ECOA Amendments of 1976, Pub. L. 94-239, 90 Stat. 251.
+17 ECOA Amendments of 1976, Pub. L. 94-239, sec. 2, 90 Stat. 251 (codified at 15 U.S.C. 1691(a)). In 2021, the CFPB
+issued an interpretive rule to clarify that, with respect to any aspect of a credit transaction, the prohibition against sex
+discrimination in ECOA and Regulation B encompasses sexual orientation discrimination and gender identity
+discrimination, including discrimination based on actual or perceived nonconformity with sex-based or gender-based
+stereotypes and discrimination based on an applicant’s associations. 86 FR 14363 (Mar. 16, 2021).
+18 S. Rep. 94-589, 94th Cong., 2nd Sess., at 2, reprinted in 1976 U.S.C.C.A.N. 403, 404.
+creditor.”19 The amendments defined “adverse action” as “a denial or revocation of credit, a
+change in the terms of an existing credit arrangement, or a refusal to grant credit in substantially
+the amount or on substantially the terms requested.”20 Thus, since 1976, ECOA has provided
+that “applicants” are entitled to an explanation when the terms of an existing credit arrangement
+are altered or the credit cancelled outright, among other circumstances.
+ECOA’s notice requirements “were designed to fulfill the twin goals of consumer
+protection and education.”21 In terms of consumer protection, “the notice requirement is
+intended to prevent discrimination ex ante because ‘if creditors know they must explain their
+decisions . . . they [will] effectively be discouraged’ from discriminatory practices.”22 The
+notice requirement “fulfills a broader need” as well by educating consumers about the reasons
+for the creditor’s action.23 As a result of being informed of the specific reasons for the adverse
+action, consumers can take steps to try to improve their credit status or, in cases “where the
+creditor may have acted on misinformation or inadequate information[,] . . . to rectify the
+mistake.”24
+Following the ECOA Amendments of 1976, the Board amended Regulation B, including
+by adding new provisions to implement ECOA’s notice requirement.25 The amended rule
+defined “adverse action” to include “[a] termination of an account or an unfavorable change in
+the terms of an account that does not affect all or substantially all of a class of the creditor’s
+accounts.”26 And it required that adverse action notices give a “statement of reasons” for the
+19 15 U.S.C. 1691(d)(2); see also 15 U.S.C. 1691(d)(3) (“A statement of reasons meets the requirements of this
+section only if it contains the specific reasons for the adverse action taken.”). In lieu of providing this statement of
+specific reasons, a creditor may instead disclose the applicant’s right to receive such a statement. 15 U.S.C.
+1691(d)(2)(B); see also 12 CFR 1002.9(a)(2)(ii).
+20 15 U.S.C. 1691(d)(6).
+21 Fischl v. Gen. Motors Acceptance Corp., 708 F.2d 143, 146 (5th Cir. 1983); see also id. (calling these provisions
+“[p]erhaps the most significant of the 1976 amendments to the ECOA”).
+22 Treadway v. Gateway Chevrolet Oldsmobile Inc., 362 F.3d 971, 977–78 (7th Cir. 2004) (quoting Fischl, 708 F.2d at
+146); see also S. Rep. 94-589, at 4 (calling the notice requirement “a strong and necessary adjunct to the
+antidiscrimination purpose of the legislation”).
+23 S. Rep. 94-589, at 4.
+24 Id.
+25 42 FR 1242 (Jan. 6, 1977); 41 FR 49123 (Nov. 8, 1976); 41 FR 29870 (July 20, 1976).
+26 12 CFR 1002.2(c)(1)(ii).
+action that is “specific” and “indicate[s] the principal reason(s) for the adverse action.”27
+Finally, the Board made a “minor editorial change” to Regulation B’s definition of
+“applicant” in order to “express more succinctly the fact that the term includes both a person who
+requests credit and a debtor,” a debtor being one who has already requested and received credit.28
+Whereas Regulation B originally defined “applicant” to include one who “applies to a creditor
+directly for an extension, renewal or continuation of credit” as well as, “[w]ith respect to any
+creditor[,] . . . any person to whom credit is or has been extended by that creditor,”29 the revised
+definition simply stated that “applicant” includes “any person who requests or who has received
+an extension of credit from a creditor.”30 Although the Board revised other parts of the
+definition over the years, it never departed from the bedrock understanding of the term
+“applicant” as including any person “who has received” an extension of credit.31
+The Dodd-Frank Wall Street Reform and Consumer Protection Act, enacted in 2010,
+revoked primary rulemaking responsibility under ECOA from the Board and transferred it to the
+newly created Bureau.32
+Shortly thereafter, the Bureau republished the Board’s ECOA regulations, including the
+definition of “applicant,” without material change.33 In addition, the Bureau’s Supervision and
+Examination Manual makes clear that creditors subject to the Bureau’s supervisory jurisdiction
+must comply with ECOA and Regulation B’s requirements with respect to existing accounts. For
+instance, the Examination Manual explains that “[n]otification of adverse action taken on an
+existing account must also be made within 30 days.”34
+27 12 CFR 1002.9(b)(2).
+28 41 FR 29870, 29871 (July 20, 1976) (proposed rule).
+29 12 CFR 202.3(c) (1976).
+30 12 CFR 202.2(e) (1978) (emphasis added); see also 42 FR 1242, 1252 (Jan. 6, 1977) (final rule).
+31 See 12 CFR 1002.2(e).
+32 Pub. L. 111-203, sec. 1085, 124 Stat. 1376, 2083–84.
+33 See 76 FR 79442 (Dec. 21, 2011) (promulgating 12 CFR part 1002 & supplement I).
+34 CFPB Supervision and Examination Manual, at ECOA 7,
+https://files.consumerfinance.gov/f/documents/201510_cfpb_ecoa-narrative-and-procedures.pdf (emphasis added); see
+also id. at ECOA 10 (“[a] creditor must preserve any written or recorded information concerning adverse action on an
+existing account as well as any written statement submitted by the applicant alleging a violation of the ECOA or
+Regulation B.”).
+B. Coverage
+This advisory opinion applies to all “creditors” as defined in section 702 of ECOA.35
+As used in this advisory opinion, “existing account holder” refers to an applicant who has
+applied for and received an extension of credit. “Existing account” or “existing credit
+arrangement” refers to an extension of credit previously made by a creditor other than an
+extension of credit that is closed or inactive. This advisory opinion has no application to any
+other circumstance and does not offer a legal interpretation of any other provisions of law.
+C. Legal Analysis
+ECOA and Regulation B plainly protect applicants who have received credit and are
+existing account holders, not just those in the process of applying for credit. This has been the
+longstanding position of the Bureau, and the view of Federal agencies prior to the Bureau’s
+creation. Despite this well-established interpretation,36 the Bureau is aware that some creditors
+fail to acknowledge that ECOA and Regulation B plainly apply to circumstances that take place
+after an extension of credit has been granted, including a revocation of credit or an unfavorable
+change in the terms of a credit arrangement.37 In addition, the Bureau is aware that some
+creditors fail to provide applicants with required notifications that include a statement of the
+specific reasons for the adverse action taken or disclose an applicant’s right to such a statement.38
+35 See 15 U.S.C. 1691a(e).
+36 See 12 CFR 202.3(c) (1976) (expressly defining the term “applicant” to include “any person to whom credit is or has
+been extended”).
+37 See Brief of Amici Curiae Consumer Fin. Prot. Bureau, Dep’t of Justice, Bd. of Governors of the Fed. Reserve Sys.,
+and Fed. Trade Comm’n in Support of Appellant and Reversal, Fralish v. Bank of Am., No. 21-2846 (7th Cir. filed Dec.
+16, 2021), https://files.consumerfinance.gov/f/documents/cfpb_fralish-v-bank-of-america_amicus- brief_2021-12.pdf;
+Brief of Amici Curiae Consumer Fin. Prot. Bureau and Fed. Trade Comm’n, TeWinkle v. Capital One, N.A., No. 20-
+2049 (2d Cir. filed Oct. 7, 2020), https://files.consumerfinance.gov/f/documents/cfpb_amicus- brief_tewinkle-v-capital-
+one-na_2020-10.pdf.
+38 Credit cards are one of the most commonly held and widely used financial products in America—over 175 million
+Americans hold at least one credit card. During the COVID-19 pandemic, credit cards played a vital role as both a
+source of credit in emergencies and a payment method as more transactions occurred online. According to the CFPB’s
+2021 Credit Card Report, about 2%, or over 10 million credit card accounts, were closed in 2020 and consumers with
+low credit scores are two to three times more likely to have their accounts closed than those with a higher credit score.
+See Bureau of Consumer Fin. Prot., The Consumer Credit Card Market (Sept. 2021),
+https://files.consumerfinance.gov/f/documents/cfpb_consumer-credit-card-market-report_2021.pdf. Additionally, the
+same report shows that over 10 million accounts experienced a credit line decrease in 2020. See id.; see also 5 Reasons
+Credit Card Companies Close Accounts Without Notice – And How to Fix Them, USA TODAY (July 13, 2021),
+https://www.usatoday.com/story/money/personalfinance/budget-and-spending/2021/07/13/5-reasons-a- credit-card-
+company-can-close-your-account-with-no-notice/47470647/; ‘My Credit Card Just Got Canceled and I Don’t Know
+But ECOA’s text, history, purpose, and judicial interpretation all point the same way: As used in
+ECOA, the term “applicant” includes persons who applied for and have received credit. Any
+uncertainty about ECOA’s protections for existing borrowers is dispelled by Regulation B.
+a. Statutory Text
+“It is a fundamental canon of statutory construction that the words of a statute must be
+read in their context and with a view to their place in the overall statutory scheme.”39 Reading
+together the relevant provisions of ECOA makes clear that the term “applicant” is not limited to
+those who are in the process of applying for credit. The Supreme Court’s analysis in Robinson v.
+Shell Oil Co.40 is instructive. In that case, the Court held that the term “employees” in Section
+704(a) of Title VII includes those who were former employees when the discrimination occurred.
+Writing for a unanimous Court, Justice Thomas explained that although “[a]t first blush, the term
+‘employees’ . . . would seem to refer to those having an existing employment relationship with
+the employer in question,” that “initial impression . . . does not withstand scrutiny in the context
+of § 704(a).”41
+For one thing, the Court observed, there is “no temporal qualifier in the statute such as
+would make plain that § 704(a) protects only persons still employed at the time of the
+retaliation.”42 The same reasoning applies to the term “applicant” in ECOA, which is not
+expressly limited to those currently in the process of seeking credit. The Court further noted that
+“a number of other provisions in Title VII use the term ‘employees’ to mean something more
+inclusive or different than ‘current employees.’”43 The same reasoning applies to the term
+“applicant” used in ECOA.
+Reading ECOA’s definition of “applicant” alongside the Act’s other provisions makes
+Why,’ THE CUT (Sept. 11, 2020), https://www.thecut.com/article/can-my-credit-card-company-cancel- my-card.html.
+39 Nat’l Ass’n of Home Builders v. Defs. of Wildlife, 551 U.S. 644, 666 (2007) (quotation marks omitted).
+40 519 U.S. 337 (1997).
+41 Id. at 341.
+42 Id.
+43 Id. at 342.
+clear that the term includes applicants who have received credit and become existing borrowers.
+For example, ECOA’s core anti-discrimination provision protects “applicant[s]” from
+discrimination “with respect to any aspect of a credit transaction”—not just during the
+application process itself.44 The phrase “any aspect of a credit transaction” is most naturally
+read to include both the initial formation of a credit agreement as well as the performance of
+that agreement.45 Consistent with this ordinary meaning, Regulation B has always defined the
+term “credit transaction” to encompass “every aspect of an applicant’s dealings with a creditor,”
+including elements of the transaction that take place after credit has been extended.46 The
+expansive language of this provision shows an intent to sweep broadly, beyond just the initial
+process of requesting credit, to bar discrimination in all parts of a credit arrangement. Indeed,
+the main Senate report accompanying ECOA specifically noted that “[t]he prohibition applies to
+all credit transactions including . . . revocation of any open-end consumer credit account.”47
+Similarly, ECOA’s disclosure provision requires that creditors give a statement of
+reasons to “[e]ach applicant” against whom they take “adverse action.”48 ECOA defines
+“adverse action” to include a “revocation of credit” as well as a “change in the terms of an
+existing credit arrangement.”49 These are actions that can be taken only with respect to persons
+who have already received credit.
+ECOA’s private right of action points in the same direction. It allows an aggrieved
+“applicant” to bring suit against creditors who fail to comply with ECOA or Regulation B.50 These
+44 15 U.S.C. 1691(a) (emphasis added); see also Ali v. Fed. Bureau of Prisons, 552 U.S. 214, 218 (2008) (“[T]he word
+‘any’ has an expansive meaning . . . .”) (quoting United States v. Gonzales, 520 U.S. 1, 5 (1997)).
+45 See, e.g., BLACK’S LAW DICTIONARY 1668 (rev. 4th ed. 1968) (defining “transaction” to include the “[a]ct of
+transacting or conducting any business” and defining “transact” as “equivalent to ‘carry on,’ when used with reference
+to business”).
+46 12 CFR 1002.2(m) (defining “credit transaction” to include, among other things, the “revocation, alteration, or
+termination of credit” and “collection procedures”); 12 CFR 202.3(k) (1976) (defining “credit transaction” to include
+the “furnishing of credit information and collection procedures”). Accordingly, the Bureau interprets aspects of the
+credit transactions enumerated in Regulation B as including and encompassing the servicing of that credit, debt
+collection, loss mitigation, payment plans, settlements, co-signer release, and certain other services provided to existing
+accountholders.
+47 S. Rep. 93-278, 93rd Cong., 1st Sess., at 27 (1973).
+48 15 U.S.C. 1691(d)(2).
+49 15 U.S.C. 1691(d)(6).
+50 15 U.S.C. 1691e(a); see also id. 1691e(b) (a “creditor, other than a government or governmental subdivision or
+references to “applicant[s]” cannot be understood to refer only to those with pending credit
+applications. Otherwise, a person whose application was denied on a prohibited basis would have
+no recourse under ECOA’s private right of action, which Congress intended would be the Act’s
+“chief enforcement tool.”51 Instead, these references further confirm that the term “applicant” is
+not limited to those currently applying for credit.52
+b. Legislative History
+Congress’s history of amending the statute strongly supports reading the statute to
+include existing borrowers. As noted, the Board issued Regulation B in 1975, through notice-
+and-comment rulemaking, shortly before ECOA took effect. The rule defined “applicant” to
+include “any person to whom credit is or has been extended.”53 If Congress thought this
+definition an unreasonable departure from the statute it had just passed, it would surely have
+given some sign of that when it amended and expanded ECOA the following year. Nor is there
+any doubt that the drafters of those statutory amendments were generally aware of the new
+Regulation B, as they cited parts of it in explaining their bill.54
+But the 1976 amendments did not limit the reasonable definition of “applicant” that the
+Board had promulgated just months before. To the contrary, the 1976 amendments added new
+provisions—such as the ones entitling “applicants” to a statement of reasons when their credit is
+revoked or modified—that make sense only if “applicant” is understood to include existing
+borrowers, as stated in Regulation B. Nor has Congress ever amended the statutory definition of
+“applicant” or otherwise expressed disapproval of the understanding of that term in Regulation
+B, despite revising the statute multiple times since 1976.55
+agency,” shall be liable to the aggrieved “applicant” for punitive damages); id. 1691e(c) (aggrieved “applicant” may
+seek relief in district court).
+51 S. Rep. 94-589, at 13.
+52 Cf. Robinson, 519 U.S. at 343 (similarly concluding that the reference to aggrieved “employees” in Title VII’s private
+right of action shows that that term is not limited to current employees).
+53 12 CFR 202.3(c) (1976).
+54 See S. Rep. 94-589, at 2 (citing the Board’s rules and noting that the amendments expanded the Board’s rulemaking
+authority).
+55 See FDIC Improvement Act of 1991, Pub. L. 102-242, sec. 223, 105 Stat. 2306-07; Dodd-Frank Act, Pub. L. 111-203,
+secs. 1071, 1474, 124 Stat. 2056-57, 2199–2200.
+“[W]hen,” as here, “Congress revisits a statute giving rise to a longstanding
+administrative interpretation without pertinent change, the ‘congressional failure to revise or
+repeal the agency’s interpretation is persuasive evidence that the interpretation is the one
+intended by Congress.’”56 That maxim applies with particular force here: The first time
+Congress revisited the statute after the Board defined “applicant” to include existing borrowers,
+Congress enacted new provisions that implicitly approved the Board’s interpretation by requiring
+that creditors provide an explanation for adverse actions that can be taken only with respect to
+existing borrowers.
+c. Statutory Purpose
+Reading “applicant” to protect individuals and businesses from discrimination both
+during the process of requesting credit and once credit has been extended furthers ECOA’s
+purpose. It prevents a creditor from canceling an existing account because of a borrower’s race.
+It bars a creditor from unfavorably modifying the terms of an existing account—perhaps by
+lowering the amount available on a line of credit—because of a borrower’s national origin. It
+stops a creditor from requiring women with existing accounts to reapply for their credit upon
+getting married.57 And it ensures that a creditor would be required to provide a statement of
+reasons to the applicant in any of these situations. This is the most plausible interpretation of
+ECOA.
+Finally, reading “applicant” in this way—i.e., ECOA protects applicants from
+discrimination both during the process of requesting credit and once credit has been extended—
+precludes obvious paths to evasion. A creditor that wished to deny credit applications on a
+prohibited basis, or to offer credit on inferior terms for the same prohibited reason, cannot do so
+by simply extending credit on the terms requested and later revoking or amending the terms of
+the credit arrangement. Nor can a creditor use similar means to avoid ever having to explain to
+56 CFTC v. Schor, 478 U.S. 833, 846 (1986) (quoting NLRB v. Bell Aerospace Co., 416 U.S. 267, 274–75 (1974)).
+57 Cf. S. Rep. 93-278, at 17 (citing this very scenario as an example of the discrimination against “applicants” that
+ECOA prohibits).
+an applicant the reasons for an adverse action. This interpretation of ECOA, therefore,
+forecloses a potential loophole that could effectively swallow much of the Act. Such a loophole
+would be plainly inconsistent with ECOA.
+d. Judicial Precedent
+Those courts that have properly read the term “applicant” in its statutory context,
+including the only court of appeals to have addressed the issue, have agreed that the statute
+protects existing borrowers. In Kinnell v. Convenient Loan Co.,58 the Tenth Circuit considered a
+claim that a creditor discriminated in violation of ECOA when it refused to accept a late payment
+on an existing loan and instead accelerated the remaining balance due. The court rejected the
+argument that the plaintiff was not an “applicant” under ECOA because he was no longer
+actively seeking credit.59 ECOA, the court explained, prohibits discrimination “with respect to
+any aspect of a credit transaction,”60 and was meant “to protect people from the ‘denial or
+termination of credit’” on a prohibited basis.61 The lender’s reading of “applicant” would mean
+that “any sua sponte action on the part of the creditor . . . would not be actionable. Such an
+interpretation improperly narrows the scope of the ECOA.”62 The court noted that its reading of
+“applicant” was directly supported by Regulation B.63
+At least one district court has reached the same conclusion. In Powell v. Pentagon Fed.
+Credit Union,64 the court held that the plaintiff, who alleged that his existing credit plan was
+terminated on a prohibited basis, was an “applicant” under ECOA. The court relied on ECOA’s
+requirement that “applicants” receive notice when their credit is revoked and on the longstanding
+definition in Regulation B.65 The court observed that the contrary interpretation would be
+58 77 F.3d 492 (10th Cir. 1996) (unpublished table decision).
+59 Id. at *2.
+60 Id. (quoting 15 U.S.C. 1691(a)).
+61 Id. (emphasis added) (quoting Miller v. American Express Co., 688 F.2d 1235, 1239 (9th Cir. 1982)).
+62 Id.
+63 Id.
+64 No. 10-cv-785, 2010 WL 3732195 (N.D. Ill. Sept. 17, 2010).
+65 Id. at *4–5.
+wholly at odds with ECOA’s purposes because it “would preclude a plaintiff with an existing
+account from bringing a claim for the discriminatory revocation of that account.”66 The court
+found nothing to “suggest[] that Congress’ intent to discourage discrimination against applicants
+somehow ceases when the alleged discrimination is against existing credit customers.”67
+The Bureau acknowledges that a few other district court decisions have interpreted
+“applicant” to include only persons actively seeking credit, but the Bureau does not believe this
+interpretation is persuasive.68 No court of appeals has endorsed these district courts’ narrow
+reading. These district court decisions read “applicant” in isolation instead of reading this
+statutory term in context, as required by the Supreme Court. For example, these decisions did
+not attempt to square their interpretation with ECOA’s requirement that “applicants” receive an
+explanation when their existing credit is terminated or modified. Nor did they grapple with the
+clear loophole their interpretation would create or the degree to which it would frustrate the
+Act’s remedial purposes.
+e. Regulation B
+Regulation B has always defined the term “applicant” to include those who applied for
+and have received credit.69 Other provisions reflect the same interpretation.70 Neither the Board
+nor the Bureau has ever amended the rule to reflect a contrary understanding of the term.
+As described above, the best interpretation of ECOA is that the term “applicant” includes
+existing borrowers. It was thus reasonable for the Board and then the Bureau to adopt that
+interpretation in Regulation B. Adopting the contrary reading would have led to the serious
+textual inconsistencies described above and run directly contrary to the statute’s purposes.
+66 Id. at *4.
+67 Id. at *4 n.2.
+68 See, e.g., TeWinkle v. Capital One, N.A., No. 1:19-cv-01002, 2019 WL 8918731, at *4–5 (W.D.N.Y. Dec. 11, 2019);
+Kalisz v. Bank of America, N.A., No. 1:18-cv-00516, 2018 WL 4356768, at *2–3 (E.D. Va. Sept. 11, 2018).
+69 See 12 CFR 1002.2(e) (including in the definition “any person . . . who has received an extension of credit from a
+creditor”); see also 12 CFR 202.3(c) (1976) (including in the definition “any person to whom credit is or has been
+extended by [a] creditor”).
+70 See, e.g., 12 CFR 1002.2(m) (defining “credit transaction” to mean “every aspect of an applicant’s dealings with a
+creditor regarding an application for credit or an existing extension of credit”) (emphasis added).
+Regulation B’s definition avoids those difficulties and, in the process, serves to “carry out” and
+“effectuate” the purposes of ECOA.71 And because the contrary interpretation would open a
+glaring loophole in ECOA, Regulation B’s definition is “necessary or proper . . . to prevent
+circumvention or evasion” of the Act.72
+Notably, Regulation B has expressly included existing borrowers as applicants since the
+rule was first promulgated through notice-and-comment rulemaking in 1975. Indeed, the
+interpretation of “applicant” discussed here has been confirmed by numerous Federal agencies for
+decades. For example, nine separate agencies or offices, including the Department of Justice,
+Federal Trade Commission, and the Board, previously published a statement confirming their
+view that ECOA prohibits discrimination in the treatment of existing borrowers, such as by
+“[t]reat[ing] a borrower differently in servicing a loan or invoking default remedies” or “[using]
+different standards for pooling or packaging a loan in the secondary market.”73 The same view is
+reflected in the manual used by the Federal Deposit Insurance Corporation, Office of the
+Comptroller of the Currency, and other financial regulators to conduct examinations of financial
+institutions for compliance with fair lending laws.74 The Bureau has consistently taken the same
+view of “applicant,” including by reissuing the Board’s original definition; issuing guidance that
+Regulation B “covers creditor activities before, during, and after the extension of credit”;75 and
+taking enforcement action to address violations of ECOA against existing borrowers.76 In short,
+the Bureau’s interpretation is longstanding and well established.
+II. Regulatory Matters
+This advisory opinion is an interpretive rule issued under the Bureau’s authority to
+71 15 U.S.C. 1691b(a).
+72 Id.
+73 Policy Statement on Discrimination in Lending, 59 Fed. Reg. 18266, 18268 (Apr. 15, 1994).
+74 See Interagency Fair Lending Examination Procedures, at ii (Aug. 2009), available at https://go.usa.gov/xeY37.
+75 Bureau of Consumer Fin. Prot., Equal Credit Opportunity Act Examination Procedures, at 1 (Oct. 2015), available at
+https://go.usa.gov/xekcN.
+76 See, e.g., In re American Express Centurion Bank and American Express Bank, FSB, No. 2017-CFPB-0016, 2017
+WL 7520638 (Aug. 23, 2017) (consent order resolving claims that creditors discriminated against existing borrowers on
+the basis of race and national origin by, for example, subjecting certain borrowers to more aggressive collection
+practices).
+interpret ECOA and Regulation B, including under section 1022(b)(1) of the Dodd-Frank Wall
+Street Reform and Consumer Protection Act, which authorized guidance as may be necessary or
+appropriate to enable the Bureau to administer and carry out the purposes and objectives of
+Federal consumer financial laws.77
+By operation of ECOA section 706(e), no provision of ECOA imposing any liability applies
+to any act done or omitted in good faith in conformity with this interpretive rule, notwithstanding
+that after such act or omission has occurred, the interpretive rule is amended, rescinded, or
+determined by judicial or other authority to be invalid for any reason.78
+As an interpretive rule, this rule is exempt from the notice-and-comment rulemaking
+requirements of the Administrative Procedure Act.79 Because no notice of proposed rulemaking
+is required, the Regulatory Flexibility Act does not require an initial or final regulatory
+flexibility analysis.80 The Bureau also has determined that this interpretive rule does not impose
+any new or revise any existing recordkeeping, reporting, or disclosure requirements on covered
+entities or members of the public that would be collections of information requiring approval by
+the Office of Management and Budget under the Paperwork Reduction Act.81
+Pursuant to the Congressional Review Act,82 the Bureau will submit a report containing
+this interpretive rule and other required information to the U.S. Senate, the U.S. House of
+Representatives, and the Comptroller General of the United States prior to the rule’s published
+effective date. The Office of Information and Regulatory Affairs has designated this interpretive
+rule as not a “major rule” as defined by 5 U.S.C. 804(2).
+Rohit Chopra,
+Director, Consumer Financial Protection Bureau.
+77 12 U.S.C. 5512(b)(1). The relevant provisions of ECOA and Regulation B form part of Federal consumer financial
+law. 12 U.S.C. 5481(12)(D), (14).
+78 15 U.S.C. 1691e(e).
+79 5 U.S.C. 553(b).
+80 5 U.S.C. 603(a), 604(a).
+81 44 U.S.C. 3501–3521.
+82 5 U.S.C. 801 et seq.
+[FR Doc. 2022-10453 Filed: 5/17/2022 8:45 am; Publication Date: 5/18/2022]

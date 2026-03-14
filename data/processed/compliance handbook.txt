@@ -1,0 +1,389 @@
+Federal Fair Lending Regulations and Statutes
+Equal Credit Opportunity (Regulation B)
+Background a prohibited basis. In addition, a bank may not use
+prescreening tactics likely to discourage potential
+The Equal Credit Opportunity Act (ECOA) of 1974, applicants on a prohibited basis. Instructions to
+which is implemented by the Board’s Regulation B, loan officers or brokers to use scripts, rate quotes,
+applies to all creditors. The statute requires finan­ or other means to discourage minority applicants
+cial institutions and other firms engaged in the from applying for credit are also prohibited.
+extension of credit to ‘‘make credit equally available
+The prohibition against discouraging applicants
+to all creditworthy customers without regard to sex
+applies to in-person oral and telephone inquiries as
+or marital status.’’ Moreover, the statute makes it
+well as to written applications. Lending officers
+unlawful for ‘‘any creditor to discriminate against
+must refrain from requesting prohibited information
+any applicant with respect to any aspect of a credit
+in conversations with applicants during the pre­
+transaction (1) on the basis of race, color, religion,
+interview phase (that is, before the application is
+national origin, sex or marital status, or age
+taken) as well as when taking the written application.
+(provided the applicant has the capacity to con­
+tract); (2) because all or part of the applicant’s To prevent discrimination in the credit-granting
+income derives from any public assistance pro­ process, the regulation imposes a delicate balance
+gram; or (3) because the applicant has in good between the creditor’s need to know as much as
+faith exercised any right under the Consumer possible about a prospective borrower and the
+Credit Protection Act.’’ In keeping with the broad borrower’s right not to disclose information irrel­
+reach of the prohibition, the regulation covers evant to the credit transaction. To this end, the
+creditor activities before, during, and after the regulation prescribes rules for taking, evaluating,
+extension of credit. and acting on applications as well as rules for
+furnishing and maintaining credit information.
+Under the ECOA, the Federal Reserve Board is
+responsible for drafting and interpreting the imple­
+menting regulation. Enforcement responsibility, how­
+Rules for Taking Applications—
+ever, rests with a creditor’s functional regulator or,
+Section 202.5
+for any category not so assigned, with the Federal
+Trade Commission. A synopsis of some of the more
+Regulation B prohibits creditors from requesting
+important points of Regulation B follows.
+and collecting specific personal information about
+an applicant that has no bearing on the applicant’s
+Prohibited Practices ability or willingness to repay the credit requested
+and could be used to discriminate against the
+Regulation B contains two basic and comprehen­ applicant.
+sive prohibitions against discriminatory lending
+practices (section 202.4):
+Applicant Characteristics
+• A creditor shall not discriminate against an
+applicant on a prohibited basis regarding any Creditors may not request or collect information
+aspect of a credit transaction. about an applicant’s race, color, religion, national
+origin, or sex. Exceptions to this rule generally
+• A creditor shall not make any oral or written
+involve situations in which the information is
+statement, in advertising or otherwise, to appli­
+necessary to test for compliance with fair lending
+cants or prospective applicants that would
+rules or is required by a state or federal regulatory
+discourage, on a prohibited basis, a reasonable
+agency or other government entity for a particular
+person from making or pursuing an application.
+purpose, such as to determine eligibility for a
+Note that the regulation is concerned not only with particular program. For example, a creditor may
+the treatment of persons who have initiated the request prohibited information
+application process, but also with lender behavior
+• In connection with a self-test being conducted
+before the application is even taken. Lending
+by the creditor (provided that the self-test meets
+officers and employees must be careful to take no
+certain requirements)
+action that would, on a prohibited basis, discour­
+age anyone from applying for a loan. For example, • For monitoring purposes in relation to credit
+a bank may not advertise its credit services and secured by real estate
+practices in ways that would tend to encourage • To determine an applicant’s eligibility for special-
+some types of borrowers and discourage others on purpose credit programs
+Consumer Compliance Handbook Reg. B • 1 (1/06)
+Fair Lending: Equal Credit Opportunity
+Information about a Spouse or Alimony, Child Support, or Separate
+Former Spouse (§ 202.5(c)) Maintenance Income (§ 202.5(d)(2))
+A bank may not request information about an A bank may ask if an applicant is receiving alimony,
+applicant’s spouse or former spouse except under child support, or separate maintenance payments.
+the following circumstances: However, the bank must first disclose to the
+applicant that such income need not be revealed
+• The non-applicant spouse will be a user of or
+unless the applicant wishes to rely on that income
+joint obligor on the account. (Note: The term
+in the determination of creditworthiness. An appro­
+‘‘user’’ applies only to open-end accounts.)
+priate notice to that effect must be given whenever
+• The non-applicant spouse will be contractually the bank makes a general request concerning
+liable on the account. income and the source of that income. Therefore, a
+• The applicant is relying on the spouse’s income, bank either must ask questions designed to solicit
+at least in part, as a source of repayment. only information about specific income (for exam­
+ple, ‘‘salary,’’ ‘‘wages,’’ ‘‘employment,’’ or other
+• The applicant resides in a community property
+specified categories of income) or must state that
+state, or the property upon which the applicant is
+disclosure of alimony, child support, or separate
+relying as a basis for repayment of the credit
+maintenance payments is not required.
+requested is located in such a state.
+• The applicant is relying on alimony, child sup­
+port, or separate maintenance income as a basis Residency and Immigration Status
+for obtaining the credit. (§ 202.5(e))
+The bank may inquire about the applicant’s perma­
+Marital status nent residence and immigration status in order to
+(§§ 202.5(d)(1) and 202.5(d)(3)) determine creditworthiness.
+Individual Credit
+Rules for Evaluating Applications—
+When an applicant applies for individual credit, the Section 202.6
+bank may not ask the applicant’s marital status.
+There are two exceptions to this rule: General Rule
+• If the credit transaction is to be secured, the A creditor may consider any information in evaluat­
+bank may ask the applicant’s marital status. (This ing applicants, so long as the use of the information
+information may be necessary to determine what does not have the intent or the effect of discrimi­
+would be required to gain access to the collateral nating against an applicant on a prohibited basis.
+in the event of default.) Generally, a creditor may not
+• If the applicant either resides in a community
+• Consider any of the prohibited bases, including
+property state or lists assets to support the debt
+age (providing the applicant is old enough,
+that are located in such a state, the bank may
+under state law, to enter into a binding contract)
+ask the applicant’s marital status. (In community
+and the receipt of public assistance
+property states, assets owned by a married
+• Use childbearing or childrearing information,
+individual may also be owned by the spouse,
+assumptions, or statistics to determine whether
+thus complicating the accessibility of the collat­
+an applicant’s income may be interrupted or
+eral in the event of default.)
+decreased
+• Consider whether there is a telephone listing in
+Joint Credit the applicant’s name (but the creditor may
+consider whether there is a telephone in the
+When a request for credit is joint (made by two or
+applicant’s home)
+more individuals who will be primarily liable), the
+bank may ask the applicant’s marital status, • Discount or exclude part-time income from an
+regardless of whether the credit is to be secured or applicant or the spouse of an applicant
+unsecured, but may use only the terms ‘‘married,’’
+‘‘unmarried,’’ and ‘‘separated.’’ This requirement
+Systems for Analyzing Credit
+applies to oral as well as written requests for marital
+status information. ‘‘Unmarried’’ may be defined to Regulation B neither requires nor endorses any
+include divorced, widowed, or never married, but particular method of credit analysis. Creditors may
+the application must not be structured in such a use traditional methods, such as judgmental sys­
+way as to encourage the applicant to distinguish tems that rely on a credit officer’s subjective
+among these. evaluation of an applicant’s creditworthiness, or
+2 (1/06) • Reg. B Consumer Compliance Handbook
+Fair Lending: Equal Credit Opportunity
+they may use more-objective, statistically devel­ The subsections dealing with signatures have
+oped techniques such as credit scoring. been, for many creditors, some of the most
+commonly misunderstood provisions of Regulation
+B. For that reason, and to increase examiners’
+Credit Scoring Systems
+ability to facilitate lender compliance and deter­
+Section 202.2(p) of Regulation B prescribes the mine whether a particular signature practice is or is
+standards that a credit scoring system must meet not a violation of the regulation, additional guid­
+to qualify as an ‘‘empirically derived, demonstrably ance is provided in CA Letter 02-1, Clarifying
+and statistically sound, credit system.’’ All forms of Signature Provisions under Sec. 202.7(d) of Regu­
+credit analysis that do not meet the standards are
+lation B. Examiners should consult that CA letter
+automatically classified as ‘‘judgmental’’ systems.
+when assessing the level of a bank’s compliance
+This distinction is important because creditors that with the signature requirements.
+use a ‘‘demonstrably and statistically sound’’
+system may take applicant age directly into
+Special-Purpose Credit Programs—
+account as a predictive variable, whereas judgmen­
+tal systems may not. Section 202.8
+The ECOA and Regulation B allow creditors to
+Judgmental Evaluation Systems establish special-purpose credit programs for appli­
+cants who meet certain eligibility requirements.
+Any system other than one that is empirically
+Generally, these programs target an economically
+derived and demonstrably and statistically sound
+disadvantaged class of individuals and are autho­
+is a judgmental system (including any credit
+rized by federal or state law. Some are offered by
+scoring system that does not meet the prescribed
+not-for-profit organizations that meet certain IRS
+technical standards). Such a system may not take
+guidelines, and some by for-profit organizations
+applicant age directly into account in evaluating
+that meet specific tests outlined in section 202.8.
+creditworthiness. The act and the regulation do,
+however, permit a creditor to consider the appli­ Experience has shown that creditors rarely seek
+cant’s age for the purpose of evaluating other to use section 202.8. Additionally, as stated in the
+applicant information that has a demonstrable commentary (supplement I to the regulation), the
+relationship to creditworthiness. Federal Reserve ‘‘does not determine whether
+individual programs qualify for special-purpose
+credit status, or whether a particular program
+Rules for Extensions of Credit— benefits an ‘economically disadvantaged class of
+Section 202.7 persons.’ The agency or creditor administering or
+offering the loan program must make these deci­
+Section 202.7 of Regulation B provides a set of sions regarding the status of its program.’’ Conse­
+rules proscribing certain discriminatory practices quently, examiners are encouraged, if an issue
+regarding the creation and continuation of credit arises regarding such a program, to consult with
+accounts. Board staff.
+Signature Requirements Notifications—Section 202.9
+The primary purpose of the signature requirements A bank must notify an applicant of action taken on
+is to permit creditworthy individuals (particularly the applicant’s request for credit, whether favor­
+women) to obtain credit on their own. Two general able or adverse, within thirty days after receiving a
+rules apply: completed application. Notice of approval may be
+expressly stated or implied (for example, the bank
+• A bank may not require a signature other than the
+may give the applicant the credit card, money,
+applicant’s or joint applicant’s if under the bank’s
+property, or services for which the applicant
+standards of creditworthiness the applicant quali­
+applied). Notification of adverse action taken on an
+fies for the amount and terms of the credit
+existing account must also be made within thirty
+requested.
+days.
+• A bank has more latitude in seeking signatures
+on instruments necessary to reach property used Under at least two circumstances, the bank need
+as security, or in support of the customer’s not comply with the thirty-day notification rule:
+creditworthiness, than it has in obtaining the • The bank must notify an applicant of adverse
+signatures of persons other than the applicant on action within ninety days after making a counter­
+documents that establish the contractual obliga­ offer unless the applicant accepts or uses the
+tion to repay. credit during that time.
+Consumer Compliance Handbook Reg. B • 3 (1/06)
+Fair Lending: Equal Credit Opportunity
+• The bank may not have to notify an applicant of business had gross revenues of $1,000,000 or less
+adverse action if the application was incomplete in the preceding fiscal year. Extensions of trade
+and the bank sent the applicant a notice of credit, credit incident to a factoring agreement, and
+incompleteness that met certain requirements similar types of credit are subject to the same rules
+set forth in section 202.9(c). as those that apply to businesses that had gross
+revenues of more than $1,000,000.
+Adverse Action Notice (§ 202.9(a)(2)) Generally, a bank must comply with the same
+notification requirements for business credit appli­
+A notification of adverse action must be in writing cants with gross revenues of $1,000,000 or less as
+and must contain certain information, including the it does for consumer credit applicants. However,
+name and address of the bank and the nature of the the bank has more options when dealing with these
+action that was taken. In addition, the bank must business credit applicants. First, the bank may tell
+provide an ECOA notice that includes the identity of the business credit applicant orally of the action
+the federal agency responsible for enforcing com­ taken. Second, if the bank chooses to provide a
+pliance with the act for that bank. This notice is notice informing the business credit applicant of
+generally included on the notification of adverse the right to request the reason for action taken, it
+action. The bank must also either provide the may, rather than disclose the reason itself, provide
+applicant with the specific principal reason for the the notice at the time of application. If the bank
+action taken or disclose that the applicant has the chooses to inform the applicant of the right to
+right to request the reason(s) for denial within sixty request a reason, however, it must provide a
+days of receipt of the bank’s notification, along with disclosure with an ECOA notice that is in retainable
+the name, address, and telephone number of the form and that gives the applicant the same
+person who can provide the specific reason(s) for information that must be provided to consumer
+the adverse action. The reason may be given orally credit applicants when this option is used (see
+if the bank also advises the applicant of the right to section 202.9(a)2)(ii)). Finally, if the application was
+obtain the reason in writing upon request. made entirely over the phone, the bank may
+provide an oral statement of action taken and of the
+Incomplete Applications (§ 202.9(c)) applicant’s right to a statement of reasons for
+adverse action.
+When a bank receives an incomplete application, it
+The notification requirements for business credit
+may send one of two alternative notifications to the
+applicants with gross revenues of more than
+applicant. One is a notice of adverse action; the
+$1,000,000 are relatively simple. The bank must
+other is a notice of incompleteness. The notice of
+notify the applicant of the action taken within a
+incompleteness must be in writing and must
+reasonable time period. The notice may be oral or
+specify the information the bank needs if it is to
+in writing; a written statement of the reasons for
+consider the application; it must also provide a
+adverse action and the ECOA notice need be
+reasonable period of time for the applicant to
+provided only if the applicant makes a written
+furnish the missing information.
+request within sixty days of the bank’s notification
+of the action taken.
+Applications Submitted
+through a Third Party (§ 202.9(g))
+Designation of Accounts—
+When more than one bank is involved in a Section 202.10(a)
+transaction and adverse action is taken with
+respect to the application for credit by all the banks A creditor that furnishes credit information to a
+involved, each bank that took such action must consumer reporting agency must designate
+provide a notice of action taken. The notification
+• Any new account to reflect the participation of
+may be given by a third party; however, the notice
+both spouses if the applicant’s spouse is permit­
+must disclose the identity of each bank on whose
+ted to use or is contractually liable on the
+behalf the notice is given. If one of the banks
+account
+approves the application, the banks that took
+• Any existing account to reflect the participation
+adverse action need not provide notification.
+of both spouses within ninety days after receiv­
+ing a written request to do so from one of the
+Notification to Business Credit spouses
+Applicants (§ 202.9(a)(3))
+If a creditor furnishes credit information to a
+The notification requirements for business credit consumer reporting agency, the creditor must
+applicants are different from those for consumer furnish the information in the name of the spouse
+credit applicants and are more extensive if the about whom the information was requested.
+4 (1/06) • Reg. B Consumer Compliance Handbook
+Fair Lending: Equal Credit Opportunity
+Record Retention—Section 202.12 Incentives for Self-Testing and
+Self-Correction—Section 202.15
+Applications
+A self-test, as discussed in section 202.15 of
+In general, a bank must preserve all written or
+Regulation B, must meet two criteria. First, it must
+recorded information connected with an applica­
+be a program, practice, or study that a lender
+tion for twenty-five months (twelve months for
+designs and uses specifically to determine the
+business credit) after the date on which the bank
+extent or effectiveness of its compliance with the
+informed the applicant of action taken on an
+regulation. Second, the results of the self-test must
+application or of incompleteness of an application.
+create data or factual information that is otherwise
+not available and cannot be derived from loan or
+application files or other records related to credit
+Prohibited Information
+transactions. The findings of a self-test that is
+conducted voluntarily by a creditor and that
+A bank may retain information in its files that it may
+meets the conditions set forth in section 202.15
+not use in evaluating applications. However, the
+are privileged against discovery or use by (1) a
+information must have been obtained inadvertently
+government agency in any examination or investi­
+or in accordance with federal or state law or
+gation related to the ECOA or Regulation B or (2) a
+regulation.
+government agency or an applicant in any legal
+proceeding involving an alleged violation of the
+ECOA or Regulation B. Privileged information
+Existing Accounts
+includes the report or results of the test; data or
+A bank must preserve any written or recorded other information created by the test; and any
+information concerning adverse action on an analysis, opinions, or conclusions regarding the
+existing account as well as any written statement results of the test. The privilege does not cover
+submitted by the applicant alleging a violation of information about whether a test was conducted;
+the ECOA or Regulation B. This evidence must be the methodology, scope, time period, or dates
+kept for twenty-five months (twelve months for covered by the test; loan or application files or
+business credit). other business records; and information derived
+from such files and records, even if aggregated,
+summarized, or reorganized.
+Prescreened Solicitations
+Requirements for Electronic
+The twenty-five-month retention rule also applies
+when a bank makes an offer of credit to potential Communication—Section 202.16
+customers. In such cases, the bank must retain for
+Subject to the specific provisions of section 202.16
+twenty-five months following the date of the solici­
+regarding disclosures, consumer consent, redeliv­
+tation
+ery, electronic signatures, and exceptions, a credi­
+• The text of any prescreened solicitation, tor may provide by electronic communication any
+• The list of criteria the creditor used to select disclosure otherwise required by the regulation to
+potential recipients of the solicitation, and be in writing.
+• Any correspondence related to complaints (for­
+mal or informal) about the solicitation. Enforcement, Penalties, and
+Liabilities—Section 202.17
+Rules for Providing Appraisal In addition to actual damages, Regulation B
+provides for punitive damages of up to $10,000 in
+Reports—Section 202.14
+individual lawsuits and up to the lesser of $500,000
+or 1 percent of the bank’s net worth in class action
+Regulation B requires that banks provide a copy of
+suits. Successful complainants are also entitled to
+the appraisal report used in connection with an
+an award of court costs and attorney’s fees.
+application for credit to be secured by a lien on a
+dwelling. A bank may provide the copy either A bank is not liable for failure to comply with the
+routinely (whether or not credit is granted or the notification requirements of section 202.9 if the
+application is withdrawn) or upon an applicant’s failure was caused by an inadvertent error and the
+written request. If the bank provides an appraisal bank, after discovering the error, (1) corrects the
+report only upon request, it must inform the error as soon as possible and (2) begins compli­
+applicant in writing of the right to receive a copy of ance with the requirements of the regulation.
+the report. ‘‘Inadvertent errors’’ include mechanical, elec-
+Consumer Compliance Handbook Reg. B • 5 (1/06)
+Fair Lending: Equal Credit Opportunity
+tronic, and clerical errors that the bank can show 202.12, and 202.13 is not considered a violation if it
+(1) were not intentional and (2) occurred despite results from an inadvertent error and the bank takes
+the fact that the bank maintains procedures the corrective action noted above. Errors involving
+reasonably adapted to avoid such errors. Similarly, sections 202.12 and 202.13 may be corrected
+failure to comply with sections 202.6(b)(6), 202.10, prospectively by the bank.
+6 (1/06) • Reg. B Consumer Compliance Handbook

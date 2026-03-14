@@ -1,0 +1,269 @@
+PART 1002—EQUAL CREDIT OPPOR- et under the provisions of 44 U.S.C. 3501
+TUNITY ACT (REGULATION B) et seq. and have been assigned OMB No.
+3170–0013.
+Sec. (b) Purpose. The purpose of this part
+1002.1 Authority, scope and purpose. is to promote the availability of credit
+1002.2 Definitions. to all creditworthy applicants without
+1002.3 Limited exceptions for certain classes regard to race, color, religion, national
+of transactions. origin, sex, marital status, or age (pro-
+1002.4 General rules.
+vided the applicant has the capacity to
+1002.5 Rules concerning requests for infor-
+contract); to the fact that all or part of
+mation.
+1002.6 Rules concerning evaluation of appli- the applicant’s income derives from a
+cations. public assistance program; or to the
+1002.7 Rules concerning extensions of credit. fact that the applicant has in good
+1002.8 Special purpose credit programs. faith exercised any right under the
+1002.9 Notifications. Consumer Credit Protection Act. The
+1002.10 Furnishing of credit information.
+regulation prohibits creditor practices
+1002.11 Relation to state law.
+1002.12 Record retention. that discriminate on the basis of any of
+1002.13 Information for monitoring pur- these factors. The regulation also re-
+poses. quires creditors to notify applicants of
+1002.14 Rules on providing appraisal reports. action taken on their applications; to
+1002.15 Incentives for self-testing and self- report credit history in the names of
+correction. both spouses on an account; to retain
+1002.16 Enforcement, penalties and liabil-
+records of credit applications; to col-
+ities.
+lect information about the applicant’s
+APPENDIX A TO PART 1002—FEDERAL AGEN- race and other personal characteristics
+CIESTOBELISTEDINADVERSEACTIONNO-
+in applications for certain dwelling-re-
+TICES
+APPENDIX B TO PART 1002—MODEL APPLICA- lated loans; and to provide applicants
+TIONFORMS with copies of appraisal reports used in
+APPENDIXC TOPART1002—SAMPLENOTIFICA- connection with credit transactions.
+TIONFORMS
+APPENDIXD TOPART1002—ISSUANCEOFOFFI- §1002.2 Definitions.
+CIALINTERPRETATIONS
+SUPPLEMENTI TOPART1002—OFFICIALINTER- For the purposes of this part, unless
+PRETATIONS the context indicates otherwise, the
+following definitions apply.
+AUTHORITY: 12 U.S.C. 5512, 5581; 15 U.S.C.
+1691b. (a) Account means an extension of
+credit. When employed in relation to
+SOURCE: 76 FR 79445, Dec. 21, 2011, unless
+an account, the word use refers only to
+otherwise noted.
+open-end credit.
+§1002.1 Authority, scope and purpose. (b) Act means the Equal Credit Op-
+portunity Act (Title VII of the Con-
+(a) Authority and scope. This part,
+sumer Credit Protection Act).
+known as Regulation B, is issued by
+the Bureau of Consumer Financial Pro- (c) Adverse action. (1) The term
+tection (Bureau) pursuant to Title VII means:
+(Equal Credit Opportunity Act) of the (i) A refusal to grant credit in sub-
+Consumer Credit Protection Act, as stantially the amount or on substan-
+amended (15 U.S.C. 1601 et seq.). Except tially the terms requested in an appli-
+as otherwise provided herein, this part cation unless the creditor makes a
+applies to all persons who are credi- counteroffer (to grant credit in a dif-
+tors, as defined in §1002.2(l), other than ferent amount or on other terms) and
+a person excluded from coverage of this the applicant uses or expressly accepts
+part by section 1029 of the Consumer the credit offered;
+Financial Protection Act of 2010, Title (ii) A termination of an account or
+X of the Dodd-Frank Wall Street Re- an unfavorable change in the terms of
+form and Consumer Protection Act, an account that does not affect all or
+Public Law 111–203, 124 Stat. 1376. Infor- substantially all of a class of the credi-
+mation collection requirements con- tor’s accounts; or
+tained in this part have been approved (iii) A refusal to increase the amount
+by the Office of Management and Budg- of credit available to an applicant who
+87
+§1002.2 12 CFR Ch. X (1–1–12 Edition)
+has made an application for an in- quested (including, but not limited to,
+crease. credit reports, any additional informa-
+(2) The term does not include: tion requested from the applicant, and
+(i) A change in the terms of an ac- any approvals or reports by govern-
+count expressly agreed to by an appli- mental agencies or other persons that
+cant; are necessary to guarantee, insure, or
+(ii) Any action or forbearance relat- provide security for the credit or col-
+ing to an account taken in connection lateral). The creditor shall exercise
+with inactivity, default, or delinquency reasonable diligence in obtaining such
+as to that account; information.
+(iii) A refusal or failure to authorize (g) Business credit refers to extensions
+an account transaction at point of sale of credit primarily for business or com-
+or loan, except when the refusal is a mercial (including agricultural) pur-
+termination or an unfavorable change poses, but excluding extensions of cred-
+in the terms of an account that does it of the types described in §§1002.3(a)–
+not affect all or substantially all of a (d).
+class of the creditor’s accounts, or
+(h) Consumer credit means credit ex-
+when the refusal is a denial of an appli-
+tended to a natural person primarily
+cation for an increase in the amount of
+for personal, family, or household pur-
+credit available under the account;
+poses.
+(iv) A refusal to extend credit be-
+(i) Contractually liable means ex-
+cause applicable law prohibits the cred-
+pressly obligated to repay all debts
+itor from extending the credit re-
+arising on an account by reason of an
+quested; or
+agreement to that effect.
+(v) A refusal to extend credit because
+(j) Credit means the right granted by
+the creditor does not offer the type of
+a creditor to an applicant to defer pay-
+credit or credit plan requested.
+ment of a debt, incur debt and defer its
+(3) An action that falls within the
+payment, or purchase property or serv-
+definition of both paragraphs (c)(1) and
+ices and defer payment therefor.
+(c)(2) of this section is governed by
+paragraph (c)(2) of this section. (k) Credit card means any card, plate,
+(d) Age refers only to the age of nat- coupon book, or other single credit de-
+ural persons and means the number of vice that may be used from time to
+fully elapsed years from the date of an time to obtain money, property, or
+applicant’s birth. services on credit.
+(e) Applicant means any person who (l) Creditor means a person who, in
+requests or who has received an exten- the ordinary course of business, regu-
+sion of credit from a creditor, and in- larly participates in a credit decision,
+cludes any person who is or may be- including setting the terms of the cred-
+come contractually liable regarding an it. The term creditor includes a credi-
+extension of credit. For purposes of tor’s assignee, transferee, or subrogee
+§1002.7(d), the term includes guaran- who so participates. For purposes of
+tors, sureties, endorsers, and similar §§1002.4(a) and (b), the term creditor
+parties. also includes a person who, in the ordi-
+(f) Application means an oral or writ- nary course of business, regularly re-
+ten request for an extension of credit fers applicants or prospective appli-
+that is made in accordance with proce- cants to creditors, or selects or offers
+dures used by a creditor for the type of to select creditors to whom requests
+credit requested. The term application for credit may be made. A person is not
+does not include the use of an account a creditor regarding any violation of
+or line of credit to obtain an amount of the Act or this part committed by an-
+credit that is within a previously es- other creditor unless the person knew
+tablished credit limit. A completed ap- or had reasonable notice of the act,
+plication means an application in con- policy, or practice that constituted the
+nection with which a creditor has re- violation before becoming involved in
+ceived all the information that the the credit transaction. The term does
+creditor regularly obtains and con- not include a person whose only par-
+siders in evaluating applications for ticipation in a credit transaction in-
+the amount and type of credit re- volves honoring a credit card.
+88
+Bur. of Consumer Financial Protection §1002.2
+(m) Credit transaction means every as- the development process to validate
+pect of an applicant’s dealings with a the system based on its own credit ex-
+creditor regarding an application for perience in accordance with paragraph
+credit or an existing extension of credit (p)(1) of this section, the system must
+(including, but not limited to, informa- be validated when sufficient credit ex-
+tion requirements; investigation proce- perience becomes available. A system
+dures; standards of creditworthiness; that fails this validity test is no longer
+terms of credit; furnishing of credit in- an empirically derived, demonstrably
+formation; revocation, alteration, or and statistically sound, credit scoring
+termination of credit; and collection system for that creditor.
+procedures). (q) Extend credit and extension of credit
+(n) Discriminate against an applicant mean the granting of credit in any
+means to treat an applicant less favor- form (including, but not limited to,
+ably than other applicants. credit granted in addition to any exist-
+(o) Elderly means age 62 or older. ing credit or credit limit; credit grant-
+(p) Empirically derived and other credit ed pursuant to an open-end credit plan;
+scoring systems. (1) A credit scoring sys- the refinancing or other renewal of
+tem is a system that evaluates an appli- credit, including the issuance of a new
+cant’s creditworthiness mechanically, credit card in place of an expiring cred-
+based on key attributes of the appli- it card or in substitution for an exist-
+cant and aspects of the transaction, ing credit card; the consolidation of
+and that determines, alone or in con- two or more obligations; or the con-
+junction with an evaluation of addi- tinuance of existing credit without any
+tional information about the applicant, special effort to collect at or after ma-
+whether an applicant is deemed credit- turity).
+worthy. To qualify as an empirically de- (r) Good faith means honesty in fact
+rived, demonstrably and statistically in the conduct or transaction.
+sound, credit scoring system, the system (s) Inadvertent error means a mechan-
+must be: ical, electronic, or clerical error that a
+(i) Based on data that are derived creditor demonstrates was not inten-
+from an empirical comparison of sam- tional and occurred notwithstanding
+ple groups or the population of credit- the maintenance of procedures reason-
+worthy and non-creditworthy appli- ably adapted to avoid such errors.
+cants who applied for credit within a (t) Judgmental system of evaluating ap-
+reasonable preceding period of time; plicants means any system for evalu-
+(ii) Developed for the purpose of eval- ating the creditworthiness of an appli-
+uating the creditworthiness of appli- cant other than an empirically derived,
+cants with respect to the legitimate demonstrably and statistically sound,
+business interests of the creditor uti- credit scoring system.
+lizing the system (including, but not (u) Marital status means the state of
+limited to, minimizing bad debt losses being unmarried, married, or sepa-
+and operating expenses in accordance rated, as defined by applicable state
+with the creditor’s business judgment); law. The term ‘‘unmarried’’ includes
+(iii) Developed and validated using persons who are single, divorced, or
+accepted statistical principles and widowed.
+methodology; and (v) Negative factor or value, in relation
+(iv) Periodically revalidated by the to the age of elderly applicants, means
+use of appropriate statistical principles utilizing a factor, value, or weight that
+and methodology and adjusted as nec- is less favorable regarding elderly ap-
+essary to maintain predictive ability. plicants than the creditor’s experience
+(2) A creditor may use an empirically warrants or is less favorable than the
+derived, demonstrably and statistically factor, value, or weight assigned to the
+sound, credit scoring system obtained class of applicants that are not classi-
+from another person or may obtain fied as elderly and are most favored by
+credit experience from which to de- a creditor on the basis of age.
+velop such a system. Any such system (w) Open-end credit means credit ex-
+must satisfy the criteria set forth in tended under a plan in which a creditor
+paragraph (p)(1)(i) through (iv) of this may permit an applicant to make pur-
+section; if the creditor is unable during chases or obtain loans from time to
+89
+§1002.3 12 CFR Ch. X (1–1–12 Edition)
+time directly from the creditor or indi- as a broker or dealer under the Securi-
+rectly by use of a credit card, check, or ties Exchange Act of 1934.
+other device. (2) Exceptions. The following provi-
+(x) Person means a natural person, sions of this part do not apply to secu-
+corporation, government or govern- rities credit:
+mental subdivision or agency, trust, es- (i) Section 1002.5(b) concerning infor-
+tate, partnership, cooperative, or asso- mation about the sex of an applicant;
+ciation. (ii) Section 1002.5(c) concerning infor-
+(y) Pertinent element of creditworthi- mation about a spouse or former
+ness, in relation to a judgmental sys- spouse;
+tem of evaluating applicants, means (iii) Section 1002.5(d)(1) concerning
+any information about applicants that information about marital status;
+a creditor obtains and considers and (iv) Section 1002.7(b) relating to des-
+that has a demonstrable relationship ignation of name to the extent nec-
+to a determination of creditworthiness. essary to comply with rules regarding
+(z) Prohibited basis means race, color, an account in which a broker or dealer
+religion, national origin, sex, marital has an interest, or rules regarding the
+status, or age (provided that the appli- aggregation of accounts of spouses to
+cant has the capacity to enter into a determine controlling interests, bene-
+binding contract); the fact that all or ficial interests, beneficial ownership,
+part of the applicant’s income derives or purchase limitations and restric-
+from any public assistance program; or tions;
+the fact that the applicant has in good (v) Section 1002.7(c) relating to action
+faith exercised any right under the concerning open-end accounts, to the
+Consumer Credit Protection Act or any extent the action taken is on the basis
+state law upon which an exemption has of a change of name or marital status;
+been granted by the Bureau. (vi) Section 1002.7(d) relating to the
+(aa) State means any state, the Dis- signature of a spouse or other person;
+trict of Columbia, the Commonwealth (vii) Section 1002.10 relating to fur-
+of Puerto Rico, or any territory or pos- nishing of credit information; and
+session of the United States. (viii) Section 1002.12(b) relating to
+record retention.
+§1002.3 Limited exceptions for certain (c) Incidental credit—(1) Definition. In-
+classes of transactions. cidental credit refers to extensions of
+(a) Public utilities credit—(1) Defini- consumer credit other than the types
+tion. Public utilities credit refers to ex- described in paragraphs (a) and (b) of
+tensions of credit that involve public this section:
+utility services provided through pipe, (i) That are not made pursuant to the
+wire, or other connected facilities, or terms of a credit card account;
+radio or similar transmission (includ- (ii) That are not subject to a finance
+ing extensions of such facilities), if the charge (as defined in Regulation Z, 12
+charges for service, delayed payment, CFR 1026.4); and
+and any discount for prompt payment (iii) That are not payable by agree-
+are filed with or regulated by a govern- ment in more than four installments.
+ment unit. (2) Exceptions. The following provi-
+(2) Exceptions. The following provi- sions of this part do not apply to inci-
+sions of this part do not apply to public dental credit:
+utilities credit: (i) Section 1002.5(b) concerning infor-
+(i) Section 1002.5(d)(1) concerning in- mation about the sex of an applicant,
+formation about marital status; and but only to the extent necessary for
+(ii) Section 1002.12(b) relating to medical records or similar purposes;
+record retention. (ii) Section 1002.5(c) concerning infor-
+(b) Securities credit—(1) Definition. Se- mation about a spouse or former
+curities credit refers to extensions of spouse;
+credit subject to regulation under sec- (iii) Section 1002.5(d)(1) concerning
+tion 7 of the Securities Exchange Act information about marital status;
+of 1934 or extensions of credit by a (iv) Section 1002.5(d)(2) concerning in-
+broker or dealer subject to regulation formation about income derived from
+90
